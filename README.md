@@ -1,2 +1,1 @@
-# decimal-to-binary-converter
-Created a decimal to binary converter for Bad Website Club's bootcamp
+Created a decimal to binary converter for Bad Website Club's bootcamp using [freeCodeCamp's curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-recursion-by-building-a-decimal-to-binary-converter/step-1).
